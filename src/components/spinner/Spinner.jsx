@@ -16,7 +16,7 @@ const Spinner = ({ initial }) => {
                 ></circle>
             </svg>
         </div>
-    );
+    ); 
 };
 
 export default Spinner;
